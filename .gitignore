@@ -1,0 +1,16 @@
+.env
+google_token.json
+google_credentials.json
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+media/
+*.log
+*.db
